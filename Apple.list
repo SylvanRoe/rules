@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,pcc.apple.com
 DOMAIN-SUFFIX,guzzoni.apple.com
 DOMAIN-SUFFIX,smoot.apple.com
 DOMAIN-SUFFIX,apple-magellan.com
+DOMAIN-SUFFIX,api-siri-prod.apple.com
 DOMAIN-SUFFIX,api.apple-cloudkit.com
 DOMAIN-SUFFIX,gateway.apple.com
 DOMAIN-SUFFIX,gateway.icloud.com
@@ -24,6 +25,7 @@ DOMAIN-SUFFIX,apple-relay.apple.com
 DOMAIN-SUFFIX,apple-relay.cloudflare.com
 DOMAIN-SUFFIX,apple-relay.akamaized.net
 DOMAIN-SUFFIX,apple-relay.fastly-edge.com
+DOMAIN-SUFFIX,apple-relay.mask.apple-dns.net
 DOMAIN-SUFFIX,cp4.cloudflare.com
 DOMAIN-SUFFIX,mask.icloud.com
 DOMAIN-SUFFIX,mask-h2.icloud.com
